@@ -3,4 +3,4 @@
 This is the pinteresting sample application for
 [*One Mont Rails*][http://onemonthrails.com]
 
-by Juha Häkkinen (about.me/juha.hakkinen)
+by Juha Häkkinen (https://twitter.com/juha_hakkinen)
